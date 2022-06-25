@@ -24,7 +24,7 @@
         <mongo.version>3.8.0</mongo.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.spring_mongo.data>2.2.7.RELEASE</maven.spring_mongo.data>
+        <maven.spring_mongo.data>3.3.5</maven.spring_mongo.data>
 
 
 
